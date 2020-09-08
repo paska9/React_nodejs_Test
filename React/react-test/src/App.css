@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(224, 191, 191);
+  color:rgb(202, 171, 171)
+}
+
+.nav-links{
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.container{
+  width: auto;
+  height: auto;
+  background-color: rgb(242, 247, 238);
+}
+
